@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ksani1
-- 👀 I’m interested in Cloud Computing and Database Organization
+- 👀 I’m interested in Software Engineering Positions
 - 🌱 I’m currently Studying MS Computer Science
 - 💞️ I’m looking for Internship for Summmer 2024
 - 📫 How to reach me 312-721-3411
