@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ksani1
-- 👀 I’m interested in Software Engineering Positions
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently Studying MS Computer Science
 - 💞️ I’m looking for full-time position
 - 📫 How to reach me 312-721-3411
