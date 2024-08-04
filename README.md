@@ -1,6 +1,6 @@
 # 💻 Khalil Muhammad
 
-**`Developer | Data Analyst`**
+**`Data Analyst | Developer`**
 
 Computer Science student specializing in Database Systems at Illinois Institute of Technology.
 
