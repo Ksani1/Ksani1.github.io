@@ -1,14 +1,14 @@
 
 ---
 
-# 💻 Khalil Muhammad
-
-**`Data Analyst | Software Developer | Innovator`**
-<div style="display: flex; align-items: center;">
-    <img src="Picture.jpg" alt="Khalil Muhammad" width="150" style="border-radius: 10px; border: 2px solid #333; margin-right: 20px;">
-<div>
-Driven Computer Science student specializing in Database Systems at Illinois Institute of Technology with a passion for data analytics and software development. I am committed to using technology to solve real-world problems and create impactful solutions.
-
+<div style="display: flex; align-items: center; background-color: #1e1e1e; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="Picture.jpg" alt="Khalil Muhammad" width="150" style="border-radius: 50%; border: 3px solid #0d7377; margin-right: 20px;">
+    <div style="color: #eeeeee;">
+        <h1 style="margin: 0; color: #14ffec;">Khalil Muhammad</h1>
+        <p style="margin: 5px 0;">Data Analyst | Developer | Innovator</p>
+        <p>Driven Computer Science student specializing in Database Systems at Illinois Institute of Technology with a passion for data analytics and software development.</p>
+    </div>
+</div>
 ---
 
 ### 🌟 Professional Summary
