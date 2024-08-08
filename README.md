@@ -4,9 +4,9 @@
 # 💻 Khalil Muhammad
 
 **`Data Analyst | Software Developer | Innovator`**
-<div align="center">
-    <img src="Picture.jpg" alt="Khalil Muhammad" width="150" style="border-radius: 50%;">
-</div>
+<div style="display: flex; align-items: center;">
+    <img src="Picture.jpg" alt="Khalil Muhammad" width="150" style="border-radius: 10px; border: 2px solid #333; margin-right: 20px;">
+<div>
 Driven Computer Science student specializing in Database Systems at Illinois Institute of Technology with a passion for data analytics and software development. I am committed to using technology to solve real-world problems and create impactful solutions.
 
 ---
