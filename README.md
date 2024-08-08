@@ -56,6 +56,28 @@ As a dedicated data analyst and developer, I thrive on transforming complex data
 <br/>
 
 ---
+## 💼 Work Experience
+
+### Data Analyst Intern
+**Zenblen**  
+*Chicago, Illinois, United States · On-site*  
+*May 2024 - Present*
+
+- Utilized Python and SQL to perform exploratory and statistical data analysis, driving data-driven decision-making.
+- Developed a dynamic Grafana dashboard for robotic kiosk inventory management, enhancing data visualization, real-time monitoring, and analytics. This improved inventory efficiency by 20% and reduced costs by 15% through actionable insights.
+- Created interactive dashboards and reports in Microsoft Power BI and Tableau to communicate insights to stakeholders.
+- Collaborated with cross-functional teams to design data models and optimize data pipelines in Microsoft Azure.
+
+### Data Analyst
+**Ponnab Nigeria Limited**  
+*Zaria, Kaduna State, Nigeria · On-site*  
+*March 2021 - April 2023*
+
+- Led staff training on Excel, SQL, and Tableau, enhancing team capability in data-driven decision-making.
+- Provided technical support and troubleshooting for software and hardware issues using C++, Python, and Java, ensuring minimal downtime.
+- Managed cloud-based services on AWS and GCP, optimizing data storage.
+- Developed and maintained databases using SQL and created reports using Microsoft Power BI and Tableau to support business operations.
+- Utilized Microsoft Excel to develop dashboards and reports for business performance monitoring, achieving a 10% increase in operational efficiency.
 
 ### 🚀 Featured Projects
 
