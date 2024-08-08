@@ -126,5 +126,3 @@ I excel in transforming data into visually compelling and actionable insights. W
 ![Profile Views](https://komarev.com/ghpvc/?username=Ksani1&color=blueviolet&style=flat-square)
 
 ---
-
-Make sure to adjust the technologies used and impact statements according to your specific contributions and outcomes in each project. Let me know if you need further changes or additions!
