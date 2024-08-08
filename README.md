@@ -5,6 +5,8 @@
 
 **`Data Analyst | Software Developer | Innovator`**
 
+![Khalil Muhammad](profile.jpg)
+
 Driven Computer Science student specializing in Database Systems at Illinois Institute of Technology with a passion for data analytics and software development. I am committed to using technology to solve real-world problems and create impactful solutions.
 
 ---
