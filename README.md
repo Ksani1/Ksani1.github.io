@@ -58,7 +58,7 @@ As a dedicated data analyst and developer, I thrive on transforming complex data
   <img src="https://img.shields.io/badge/Check%20out%20my%20GitHub%20Projects-%2300ADD8.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Projects"/>
 </a>
 
-- **[Enhancing City Mobility with Cab Data Analytics]([https://github.com/Ksani1/cab-data-analytics](https://github.com/Ksani1/Enhancing-City-Mobility-with-Cab-Data-Analytics))**: Analyzed cab data to compare pricing models and predictive techniques of two companies, leveraging advanced analytics to improve urban mobility solutions.
+- **[Enhancing City Mobility with Cab Data Analytics](https://github.com/Ksani1/Enhancing-City-Mobility-with-Cab-Data-Analytics)**: Analyzed cab data to compare pricing models and predictive techniques of two companies, leveraging advanced analytics to improve urban mobility solutions.
   - **Technologies Used**: Python, Pandas, SQL
   - **Impact**: Enhanced city mobility insights and strategic planning.
 
