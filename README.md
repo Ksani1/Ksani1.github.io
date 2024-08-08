@@ -59,7 +59,7 @@ As a dedicated data analyst and developer, I thrive on transforming complex data
 </a>
 
 - **[Enhancing City Mobility with Cab Data Analytics](https://github.com/Ksani1/Enhancing-City-Mobility-with-Cab-Data-Analytics)**: Analyzed cab data to compare pricing models and predictive techniques of two companies, leveraging advanced analytics to improve urban mobility solutions.
-  - **Technologies Used**: Python, Pandas, SQL
+  - **Technologies Used**: Python, R, Pandas, SQL
   - **Impact**: Enhanced city mobility insights and strategic planning.
 
 - **[Payment Gateway](https://github.com/Ksani1/payment-gateway)**: Developed a robust payment gateway model using Java, focusing on secure transaction processing and user-friendly interfaces.
