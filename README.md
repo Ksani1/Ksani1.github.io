@@ -6,7 +6,7 @@
 **`Data Analyst | Software Developer | Innovator`**
 
 <div style="display: flex; align-items: center; padding: 20px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <img src="Picture.jpg" alt="Khalil Muhammad" width="150" style="border-radius: 50%; border: 3px solid #0d7377; margin-right: 20px;">
+    <img src="Photo.png" alt="Khalil Muhammad" width="150" style="border-radius: 50%; border: 3px solid #0d7377; margin-right: 20px;">
     <div>
         Driven Computer Science student specializing in Database Systems at Illinois Institute of Technology with a passion for data analytics and software development. I am committed to using technology to solve real-world problems and create impactful solutions.
     </div>
