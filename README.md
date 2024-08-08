@@ -1,4 +1,3 @@
-
 ---
 
 # 💻 Khalil Muhammad
@@ -13,7 +12,6 @@
 </div>
 
 ---
-
 
 ### 🌟 Professional Summary
 
@@ -54,6 +52,65 @@ As a dedicated data analyst and developer, I thrive on transforming complex data
 <img align="left" alt="Android Studio" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
 <br/>
 <br/>
+
+---
+
+## 💼 Work Experience
+
+### Data Analyst Intern
+**Zenblen**  
+*Chicago, Illinois, United States · On-site*  
+*May 2024 - Present*
+
+- Utilized Python and SQL to perform exploratory and statistical data analysis, driving data-driven decision-making.
+- Developed a dynamic Grafana dashboard for robotic kiosk inventory management, enhancing data visualization, real-time monitoring, and analytics.
+  - Improved inventory efficiency by 20% and reduced costs by 15% through actionable insights.
+- Developed interactive dashboards and reports in Microsoft Power BI and Tableau to communicate insights to stakeholders.
+- Collaborated with cross-functional teams to design data models and optimize data pipelines in Microsoft Azure.
+
+### AI Coder (Contract)
+**Outlier**  
+*Remote*  
+*June 2024 - August 2024*
+
+- Skills: Artificial Intelligence (AI), Machine Learning, Data Science, Deep Learning, Computer Vision, R, Google Cloud Platform (GCP), Dialogflow.
+
+### Software Engineer Intern
+**Open Learning Exchange**  
+*Cambridge, Massachusetts, United States · Remote*  
+*May 2024 - August 2024*
+
+- Skills: C++, Node.js, Python, R, React.js, Microsoft Power BI, Java.
+
+### Data Analyst
+**Ponnab Nigeria Limited**  
+*Zaria, Kaduna State, Nigeria · On-site*  
+*March 2021 - April 2023*
+
+- Led staff training on Excel, SQL, and Tableau, enhancing team capability in data-driven decision-making.
+- Provided technical support and troubleshooting for software and hardware issues using C++, Python, and Java, ensuring minimal downtime.
+- Managed cloud-based services on AWS and GCP, optimizing data storage.
+- Developed and maintained databases using SQL and created reports using Microsoft Power BI and Tableau to support business operations.
+- Utilized Microsoft Excel to develop dashboards and reports for business performance monitoring, achieving a 10% increase in operational efficiency.
+
+### IT Support Specialist
+**Romptech Scientific Supplies Company Limited**  
+*Zaria, Kaduna State, Nigeria · On-site*  
+*March 2021 - April 2023*
+
+- Provided technical support and troubleshooting for software and hardware issues using C++, Python, and Java.
+- Managed cloud-based services on AWS and GCP, optimizing data storage.
+- Developed and maintained databases using SQL and created reports using Microsoft Power BI and Tableau to support business operations.
+
+### Founder
+**Ibk Graphics**  
+*Federal Capital Territory, Nigeria*  
+*September 2019 - October 2021*
+
+- Founded and led a successful graphic design company, driving the company’s vision and mission.
+- Provided creative direction for all design projects, ensuring high-quality deliverables aligned with client objectives.
+- Cultivated strong client relationships, resulting in a high level of satisfaction and repeat business.
+- Built and led a cohesive team of designers, fostering a collaborative and innovative work environment.
 
 ---
 
@@ -108,4 +165,3 @@ I excel in transforming data into visually compelling and actionable insights. W
 
 ---
 
-Make sure to adjust the technologies used and impact statements according to your specific contributions and outcomes in each project. Let me know if you need further changes or additions!
