@@ -66,7 +66,8 @@ As a dedicated data analyst and developer, I thrive on transforming complex data
 - Collaborated with cross-functional teams to design data models and optimize data pipelines in Microsoft Azure.
 
 ### Data Analyst
-**FinTech**  
+**FinTech** 
+*Sep 2019 - Oct 2021*
 *Zaria, Kaduna State, Nigeria · On-site*  
 *March 2021 - April 2023*
 
