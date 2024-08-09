@@ -1,7 +1,7 @@
 
 ---
 
-**Data Analyst | Software Developer | Innovator**
+Data Analyst | Software Developer | Innovator
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ksani) 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:ksani1@hawk.iit.edu) 
