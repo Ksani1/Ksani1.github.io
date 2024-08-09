@@ -1,5 +1,3 @@
-Here's your profile arranged in a README format, suitable for platforms like GitHub:
-
 ---
 
 # Khalil Muhammad
@@ -126,5 +124,3 @@ I excel in transforming data into visually compelling and actionable insights. W
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalilmuhammad) [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:khalil.muhammad@example.com) [![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/Ksani1)
 
 ---
-
-Feel free to replace `path/to/your/certification-image.png` with the actual paths to your certification images if you're using them in a repository. You can adjust the format as needed for specific platforms or personal preferences.
