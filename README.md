@@ -1,58 +1,48 @@
-
----
-**`Data Analyst | Software Developer | Innovator`**
-
-<div style="display: flex; align-items: center; padding: 20px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <img src="Photo.png" alt="Khalil Muhammad" width="150" style="border-radius: 50%; border: 3px solid #0d7377; margin-right: 20px;">
-    <div>
-        Driven Computer Science student specializing in Database Systems at Illinois Institute of Technology with a passion for data analytics and software development. I am committed to using technology to solve real-world problems and create impactful solutions.
-    </div>
-</div>
+Here's your profile arranged in a README format, suitable for platforms like GitHub:
 
 ---
 
+# Khalil Muhammad
 
-### 🌟 Professional Summary
+**Data Analyst | Software Developer | Innovator**
 
-As a dedicated data analyst and developer, I thrive on transforming complex data into actionable insights. My academic journey and hands-on experience have equipped me with the skills necessary to tackle challenging projects in data analytics and software engineering.
-
-### 📫 Contact Information
-
-- [LinkedIn](https://www.linkedin.com/in/khalilmuhammad)
-- [Email](mailto:khalil.muhammad@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalilmuhammad) [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:khalil.muhammad@example.com) [![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/Ksani1)
 
 ---
 
-### 🛠️ Skills and Expertise
+## 🌟 Professional Summary
 
-**Data Analysis Tools**
-
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" alt="R" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
-<img align="left" alt="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-<img align="left" alt="NumPy" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-<img align="left" alt="Tableau" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png"/>
-<img align="left" alt="Power BI" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
-<br/>
-<br/>
-
-**Development Tools**
-
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-<img align="left" alt="TensorFlow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-<img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="Kubernetes" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
-<img align="left" alt="AWS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-<img align="left" alt="GCP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="VS Code" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="Android Studio" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
-<br/>
-<br/>
+Driven Computer Science student specializing in Database Systems at Illinois Institute of Technology with a passion for data analytics and software development. I thrive on transforming complex data into actionable insights and am committed to using technology to solve real-world problems and create impactful solutions.
 
 ---
+
+## 🛠️ Skills and Expertise
+
+### Data Analysis Tools
+
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg =40x40)
+![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg =40x40)
+![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg =40x40)
+![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg =40x40)
+![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg =40x40)
+![Tableau](https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png =40x40)
+![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg =40x40)
+
+### Development Tools
+
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg =40x40)
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg =40x40)
+![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg =40x40)
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg =40x40)
+![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg =40x40)
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg =40x40)
+![GCP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg =40x40)
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg =40x40)
+![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg =40x40)
+![Android Studio](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg =40x40)
+
+---
+
 ## 💼 Work Experience
 
 ### Data Analyst Intern
@@ -61,13 +51,12 @@ As a dedicated data analyst and developer, I thrive on transforming complex data
 *May 2024 - Present*
 
 - Utilized Python and SQL to perform exploratory and statistical data analysis, driving data-driven decision-making.
-- Developed a dynamic Grafana dashboard for robotic kiosk inventory management, enhancing data visualization, real-time monitoring, and analytics. This improved inventory efficiency by 20% and reduced costs by 15% through actionable insights.
+- Developed a dynamic Grafana dashboard for robotic kiosk inventory management, enhancing data visualization, real-time monitoring, and analytics. Improved inventory efficiency by 20% and reduced costs by 15% through actionable insights.
 - Created interactive dashboards and reports in Microsoft Power BI and Tableau to communicate insights to stakeholders.
 - Collaborated with cross-functional teams to design data models and optimize data pipelines in Microsoft Azure.
 
-### IT Support Specialist
-**FinTech** 
-
+### Data Analyst
+**Ponnab Nigeria Limited**  
 *Zaria, Kaduna State, Nigeria · On-site*  
 *March 2021 - April 2023*
 
@@ -78,21 +67,18 @@ As a dedicated data analyst and developer, I thrive on transforming complex data
 - Utilized Microsoft Excel to develop dashboards and reports for business performance monitoring, achieving a 10% increase in operational efficiency.
 
 ### Founder
-**Ibk Graphics**
-
-*Abuja, Nigeria · Self-Employed*
+**Ibk Graphics**  
+*Abuja, Nigeria · Self-Employed*  
 *September 2019 - October 2021*
 
-- Founded and led a successful graphic design company, driving the company’s vision and mission
-- Provided creative direction for all design projects, ensuring high-quality deliverables aligned with client objectives
-- Cultivated strong client relationships, resulting in a high level of satisfaction and repeat business
-- Built and led a cohesive team of designers, fostering a collaborative and innovative work environment
+- Founded and led a successful graphic design company, driving the company’s vision and mission.
+- Provided creative direction for all design projects, ensuring high-quality deliverables aligned with client objectives.
+- Cultivated strong client relationships, resulting in a high level of satisfaction and repeat business.
+- Built and led a cohesive team of designers, fostering a collaborative and innovative work environment.
 
-### 🚀 Featured Projects
+---
 
-<a href="https://github.com/Ksani1">
-  <img src="https://img.shields.io/badge/Check%20out%20my%20GitHub%20Projects-%2300ADD8.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Projects"/>
-</a>
+## 🚀 Featured Projects
 
 - **[Enhancing City Mobility with Cab Data Analytics](https://github.com/Ksani1/Enhancing-City-Mobility-with-Cab-Data-Analytics)**: Analyzed cab data to compare pricing models and predictive techniques of two companies, leveraging advanced analytics to improve urban mobility solutions.
   - **Technologies Used**: Python, R, Pandas, SQL
@@ -108,13 +94,13 @@ As a dedicated data analyst and developer, I thrive on transforming complex data
 
 ---
 
-### 📈 Analytics and Visualization
+## 📈 Analytics and Visualization
 
-I excel in transforming data into visually compelling and actionable insights. Whether it's using Python for data wrangling, R for statistical analysis, or Tableau for interactive dashboards, I bring data to life to drive informed decision-making.
+I excel in transforming data into visually compelling and actionable insights. Whether using Python for data wrangling, R for statistical analysis, or Tableau for interactive dashboards, I bring data to life to drive informed decision-making.
 
 ---
 
-### 🎓 Educational Background
+## 🎓 Educational Background
 
 - **Illinois Institute of Technology** - Specializing in Database Systems
 - **Informatics Academy, Singapore** - Diploma in Information Technology
@@ -122,19 +108,23 @@ I excel in transforming data into visually compelling and actionable insights. W
 
 ---
 
-### 🌐 Connect with Me
+## 🎓 Certifications
 
-- [LinkedIn](https://www.linkedin.com/in/khalilmuhammad)
-- [GitHub](https://github.com/Ksani1)
-- [Email](mailto:khalil.muhammad@example.com)
+- **SQL Certification** - Sololearn (April 2021)
+  - ![SQL Certification](path/to/your/sql-certification-image.png)
+- **C++ Certification** - Sololearn (April 2021)
+  - ![C++ Certification](path/to/your/cplusplus-certification-image.png)
+- **HTML5 Application Development** - Sololearn (April 2021)
+  - ![HTML5 Certification](path/to/your/html5-certification-image.png)
+- **JavaScript Certification** - Sololearn (April 2021)
+  - ![JavaScript Certification](path/to/your/javascript-certification-image.png)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalilmuhammad) [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:khalil.muhammad@example.com) [![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/Ksani1)
 
 ---
 
-<details>
-  <summary><h3>👨‍💻 Khalil's Coding Journey</h3></summary>
-  My coding journey began with a strong interest in technology and software development. I attended IAEC University in Togo and Informatics Academy in Singapore to build a solid foundation in computer science. Now, as a student at the Illinois Institute of Technology, I am specializing in Database Systems and continually advancing my skills in software engineering and data analysis.
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ksani1&color=blueviolet&style=flat-square)
-
----
+Feel free to replace `path/to/your/certification-image.png` with the actual paths to your certification images if you're using them in a repository. You can adjust the format as needed for specific platforms or personal preferences.
