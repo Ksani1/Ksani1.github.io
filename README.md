@@ -54,7 +54,7 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 
 ## 💼 Work Experience
 
-### Data Analyst Intern
+### Data Analyst
 **Zenblen**  
 *Chicago, Illinois, United States · On-site*  
 *May 2024 - Present*
@@ -119,19 +119,17 @@ I excel in transforming data into visually compelling and actionable insights. W
 
 ## 🎓 Certifications
 
-Below are the certifications I have obtained, along with optimized images for better loading performance:
-
 - **SQL Certification** - Sololearn (April 2021)
-  - ![SQL Certification](SQL.jpg) <!-- Optimized: Compressed and resized for faster loading -->
+  - ![SQL Certification](SQL.jpg) 
   
 - **C++ Certification** - Sololearn (April 2021)
-  - ![C++ Certification](CPlusPlus.jpg) <!-- Optimized: Converted to WebP format for smaller file size -->
+  - ![C++ Certification](CPlusPlus.jpg)
   
 - **HTML5 Application Development** - Sololearn (April 2021)
-  - ![HTML5 Certification](HTML.jpg) <!-- Optimized: Resized to fit better within the portfolio layout -->
+  - ![HTML5 Certification](HTML.jpg) 
 
 - **JavaScript Certification** - Sololearn (April 2021)
-  - ![JavaScript Certification](JavaScript.jpg) <!-- Optimized: Compressed to maintain quality while reducing size -->
+  - ![JavaScript Certification](JavaScript.jpg) 
  
 ---
 
