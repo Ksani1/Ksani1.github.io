@@ -120,17 +120,12 @@ I excel in transforming data into visually compelling and actionable insights. W
 ## 🎓 Certifications
 
 - **SQL Certification** - Sololearn (April 2021)
-  - ![SQL Certification](SQL.jpg) 
   
 - **C++ Certification** - Sololearn (April 2021)
-  - ![C++ Certification](CPlusPlus.jpg)
   
 - **HTML5 Application Development** - Sololearn (April 2021)
-  - ![HTML5 Certification](HTML.jpg) 
 
 - **JavaScript Certification** - Sololearn (April 2021)
-  - ![JavaScript Certification](JavaScript.jpg) 
- 
 ---
 
 ## 🌐 Connect with Me
