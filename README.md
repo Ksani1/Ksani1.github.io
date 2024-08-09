@@ -119,14 +119,19 @@ I excel in transforming data into visually compelling and actionable insights. W
 
 ## 🎓 Certifications
 
+Below are the certifications I have obtained, along with optimized images for better loading performance:
+
 - **SQL Certification** - Sololearn (April 2021)
-  - ![SQL Certification](SQL.jpg)
+  - ![SQL Certification](SQL.webp) <!-- Optimized: Compressed and resized for faster loading -->
+  
 - **C++ Certification** - Sololearn (April 2021)
-  - ![C++ Certification](CPlusPlus.jpg)
+  - ![C++ Certification](CPlusPlus.webp) <!-- Optimized: Converted to WebP format for smaller file size -->
+  
 - **HTML5 Application Development** - Sololearn (April 2021)
-  - ![HTML5 Certification](HTML.jpg)
+  - ![HTML5 Certification](HTML.webp) <!-- Optimized: Resized to fit better within the portfolio layout -->
+
 - **JavaScript Certification** - Sololearn (April 2021)
-  - ![JavaScript Certification](JavaScript.jpg)
+  - ![JavaScript Certification](JavaScript.webp) <!-- Optimized: Compressed to maintain quality while reducing size -->
 
 ---
 
