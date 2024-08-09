@@ -66,7 +66,7 @@ As a dedicated data analyst and developer, I thrive on transforming complex data
 - Collaborated with cross-functional teams to design data models and optimize data pipelines in Microsoft Azure.
 
 ### Data Analyst
-**Ponnab Nigeria Limited**  
+**FinTech**  
 *Zaria, Kaduna State, Nigeria · On-site*  
 *March 2021 - April 2023*
 
@@ -75,6 +75,13 @@ As a dedicated data analyst and developer, I thrive on transforming complex data
 - Managed cloud-based services on AWS and GCP, optimizing data storage.
 - Developed and maintained databases using SQL and created reports using Microsoft Power BI and Tableau to support business operations.
 - Utilized Microsoft Excel to develop dashboards and reports for business performance monitoring, achieving a 10% increase in operational efficiency.
+
+### Founder
+**Ibk Graphics**
+- Founded and led a successful graphic design company, driving the company’s vision and mission
+- Provided creative direction for all design projects, ensuring high-quality deliverables aligned with client objectives
+- Cultivated strong client relationships, resulting in a high level of satisfaction and repeat business
+- Built and led a cohesive team of designers, fostering a collaborative and innovative work environment
 
 ### 🚀 Featured Projects
 
