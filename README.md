@@ -7,9 +7,9 @@ Data Analyst | Software Developer | Innovator
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:ksani1@hawk.iit.edu) 
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/Ksani1)
 
-<div style="display: flex; align-items: center;">
-  <img src="Photo.png" alt="Khalil Muhammad" width="150" style="border-radius: 50%; margin-right: 20px;">
-  <div>
+<div style="display: flex; align-items: center; padding: 20px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="Photo.png" alt="Khalil Muhammad" width="150" style="border-radius: 50%; border: 3px solid #0d7377; margin-right: 20px;">
+    <div>
     Welcome to my professional profile! I'm a passionate data analyst and software developer with a proven track record of transforming data into actionable insights. Specializing in database systems and software solutions, I thrive on leveraging technology to solve complex problems and drive business growth. With a strong foundation in data analytics and software engineering, I am committed to delivering innovative solutions that create value and foster meaningful change. Let's connect and explore how I can contribute to your organization's success
   </div>
 </div>
