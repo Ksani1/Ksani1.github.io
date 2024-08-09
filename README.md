@@ -1,5 +1,4 @@
 
-
 ---
 
 
@@ -10,7 +9,6 @@
 <div style="display: flex; align-items: center; padding: 20px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <img src="Photo.png" alt="Khalil Muhammad" width="150" style="border-radius: 50%; border: 3px solid #0d7377; margin-right: 20px;">
     <div>
-
 
 ---
 
@@ -126,6 +124,7 @@ I excel in transforming data into visually compelling and actionable insights. W
 - **HTML5 Application Development** - Sololearn (April 2021)
 
 - **JavaScript Certification** - Sololearn (April 2021)
+  
 ---
 
 ## 🌐 Connect with Me
