@@ -135,4 +135,14 @@ I excel in transforming data into visually compelling and actionable insights. W
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalilmuhammad) [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:khalil.muhammad@example.com) [![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/Ksani1)
 
 ---
+---
+
+<details>
+  <summary><h3>👨‍💻 Khalil's Coding Journey</h3></summary>
+  My coding journey began with a strong interest in technology and software development. I attended IAEC University in Togo and Informatics Academy in Singapore to build a solid foundation in computer science. Now, as a student at the Illinois Institute of Technology, I am specializing in Database Systems and continually advancing my skills in software engineering and data analysis.
+</details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ksani1&color=blueviolet&style=flat-square)
+
+---
 
