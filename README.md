@@ -79,7 +79,7 @@ As a dedicated data analyst and developer, I thrive on transforming complex data
 ### Founder
 **Ibk Graphics**
 *Abuja, Nigeria · Self-Employed*
-*Sep 2019 - Oct 2021*
+*September 2019 - October 2021*
 - Founded and led a successful graphic design company, driving the company’s vision and mission
 - Provided creative direction for all design projects, ensuring high-quality deliverables aligned with client objectives
 - Cultivated strong client relationships, resulting in a high level of satisfaction and repeat business
