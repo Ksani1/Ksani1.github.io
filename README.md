@@ -112,9 +112,9 @@ I excel in transforming data into visually compelling and actionable insights. W
 ## 🎓 Educational Background
 
 - **Illinois Institute of Technology** - Specializing in Database Systems
-- **Informatics Academy, Singapore** - Diploma in Information Technology
 - **IAEC University, Togo** - Bachelor of Science in Computer Science
-
+- **Informatics Academy, Singapore** - Diploma in Information Technology
+  
 ---
 
 ## 🎓 Certifications
