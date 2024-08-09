@@ -64,8 +64,8 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 - Created interactive dashboards and reports in Microsoft Power BI and Tableau to communicate insights to stakeholders.
 - Collaborated with cross-functional teams to design data models and optimize data pipelines in Microsoft Azure.
 
-### Data Analyst
-**Ponnab Nigeria Limited**  
+### IT Support Specialist
+**FinTech**  
 *Zaria, Kaduna State, Nigeria · On-site*  
 *March 2021 - April 2023*
 
