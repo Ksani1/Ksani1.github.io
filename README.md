@@ -65,7 +65,7 @@ As a dedicated data analyst and developer, I thrive on transforming complex data
 - Created interactive dashboards and reports in Microsoft Power BI and Tableau to communicate insights to stakeholders.
 - Collaborated with cross-functional teams to design data models and optimize data pipelines in Microsoft Azure.
 
-### Data Analyst
+### IT Support Specialist
 **FinTech** 
 *Zaria, Kaduna State, Nigeria · On-site*  
 *March 2021 - April 2023*
@@ -80,6 +80,7 @@ As a dedicated data analyst and developer, I thrive on transforming complex data
 **Ibk Graphics**
 *Abuja, Nigeria · Self-Employed*
 *September 2019 - October 2021*
+
 - Founded and led a successful graphic design company, driving the company’s vision and mission
 - Provided creative direction for all design projects, ensuring high-quality deliverables aligned with client objectives
 - Cultivated strong client relationships, resulting in a high level of satisfaction and repeat business
