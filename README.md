@@ -67,6 +67,7 @@ As a dedicated data analyst and developer, I thrive on transforming complex data
 
 ### IT Support Specialist
 **FinTech** 
+
 *Zaria, Kaduna State, Nigeria · On-site*  
 *March 2021 - April 2023*
 
@@ -78,6 +79,7 @@ As a dedicated data analyst and developer, I thrive on transforming complex data
 
 ### Founder
 **Ibk Graphics**
+
 *Abuja, Nigeria · Self-Employed*
 *September 2019 - October 2021*
 
