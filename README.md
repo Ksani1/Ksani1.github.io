@@ -28,7 +28,7 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40px" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40px" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coreldraw/coreldraw-plain.svg" alt="CorelDraw" width="40px" style="padding-right:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/CorelDRAW_logo.svg" alt="CorelDraw" width="40px" style="padding-right:10px;"/> <!-- Updated CorelDraw logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" alt="Adobe After Effects" width="40px" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40px" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="Sketch" width="40px" style="padding-right:10px;"/>
