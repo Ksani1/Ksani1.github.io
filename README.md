@@ -66,7 +66,7 @@ uninterrupted service.
 - In-depth training with the lead mechanical engineer on the operation of the Smoothie robotic system.
 
 ### IT Support Specialist
-**FinTech**  
+**Romptech Scientific Supplies Company Limited**  
 *Zaria, Kaduna State, Nigeria · On-site*  
 *March 2021 - April 2023*
 
