@@ -42,13 +42,6 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40px" style="padding-right:10px;"/>
 </p>
 
-## Social Media Management
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Analytics" width="40px" style="padding-right:10px;"/>
-  <!-- Add icons for Hootsuite, Buffer, Canva, and any other tools as necessary -->
-</p>
-
 ## Data Analysis Tools
 
 <p align="left">
