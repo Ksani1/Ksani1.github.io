@@ -1,8 +1,5 @@
 
 ---
-
-Data Analyst | Software Developer | Innovator
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ksani) 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:ksani1@hawk.iit.edu) 
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/Ksani1)
@@ -56,15 +53,17 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 
 ## 💼 Work Experience
 
-### Data Analyst
+### Field Operations Associate
 **Zenblen**  
 *Chicago, Illinois, United States · On-site*  
 *May 2024 - Present*
 
-- Utilized Python and SQL to perform exploratory and statistical data analysis, driving data-driven decision-making.
-- Developed a dynamic Grafana dashboard for robotic kiosk inventory management, enhancing data visualization, real-time monitoring, and analytics. Improved inventory efficiency by 20% and reduced costs by 15% through actionable insights.
-- Created interactive dashboards and reports in Microsoft Power BI and Tableau to communicate insights to stakeholders.
-- Collaborated with cross-functional teams to design data models and optimize data pipelines in Microsoft Azure.
+- In charge of daily Smoothie restocking for V5 and V4 robotic kiosks.
+- Assisted in designing the Tropical smoothie display on the robotic kiosk.
+- Managed customer experience in the field to ensure satisfaction and quality service.
+- In charge of on-site (Level-1) support to fix the robotic kiosk when it failed, ensuring minimal downtime and
+uninterrupted service.
+- In-depth training with the lead mechanical engineer on the operation of the Smoothie robotic system.
 
 ### IT Support Specialist
 **FinTech**  
@@ -94,15 +93,7 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 - **[Enhancing City Mobility with Cab Data Analytics](https://github.com/Ksani1/Enhancing-City-Mobility-with-Cab-Data-Analytics)**: Analyzed cab data to compare pricing models and predictive techniques of two companies, leveraging advanced analytics to improve urban mobility solutions.
   - **Technologies Used**: Python, R, Pandas, SQL
   - **Impact**: Enhanced city mobility insights and strategic planning.
-
-- **[Payment Gateway](https://github.com/Ksani1/payment-gateway)**: Developed a robust payment gateway model using Java, focusing on secure transaction processing and user-friendly interfaces.
-  - **Technologies Used**: Java, Spring Boot
-  - **Impact**: Improved transaction security and efficiency.
-
-- **[Customer Service Chatbot](https://github.com/Ksani1/customer-service-chatbot)**: Created a chatbot for a robotic kiosk using Java, NLP, and TensorFlow to enhance customer interactions and streamline data retrieval.
-  - **Technologies Used**: Java, TensorFlow, NLP
-  - **Impact**: Improved customer service and data management efficiency.
-
+    
 ---
 
 ## 📈 Analytics and Visualization
