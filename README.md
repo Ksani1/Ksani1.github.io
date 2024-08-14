@@ -79,7 +79,7 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 
 ## 💼 Work Experience
 
-### Field Operations Associate
+### Operations Specialist
 **Zenblen**  
 *Chicago, Illinois, United States · On-site*  
 *May 2024 - Present*
