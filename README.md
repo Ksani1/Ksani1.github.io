@@ -9,7 +9,7 @@
 <div style="display: flex; align-items: center; padding: 20px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <img src="Photo.png" alt="Khalil Muhammad" width="150" style="border-radius: 50%; border: 3px solid #0d7377; margin-right: 20px;">
     <div>
-    Welcome to my professional profile! I'm dynamic and results-driven professional with a strong background in technology and design, seeking to leverage skills in sales and marketing management. Proven ability to cultivate strong client relationships, enhance customer experiences, and drive business growth through strategic planning and innovative solutions. Adept at leading teams and executing marketing campaigns that align with company goals.
+    Welcome to my portfolio! I am a Master’s student in Computer Science at the Illinois Institute of Technology, specializing in data science, machine learning, and business strategy. My work focuses on extracting valuable insights from complex datasets and applying these findings to drive business innovation and growth
   </div>
 </div>
 
