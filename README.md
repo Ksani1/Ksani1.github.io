@@ -79,7 +79,7 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 
 ## 💼 Work Experience
 
-### Operations Specialist
+### Data Analyst Intern
 **Zenblen**  
 *Chicago, Illinois, United States · On-site*  
 *May 2024 - Present*
@@ -90,6 +90,15 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 - In charge of on-site (Level-1) support to fix the robotic kiosk when it failed, ensuring minimal downtime and
 uninterrupted service.
 - In-depth training with the lead mechanical engineer on the operation of the Smoothie robotic system.
+
+### Software Engineering Intern
+**Open Learning Exchange**  
+*Cambridge, MA, Nigeria · (remote)*  
+*SEPT 2020 – DEC 2022*
+
+- Improved the stability, performance, and user experience of the MyPlanet Android application, reducing app crashes by 25%
+- Spearheaded new features for the MyPlanet app, increasing user retention by 20%
+- Achieved key milestones such as reducing app crashes by 25% and improving app load times by 15%
 
 ### IT Support Specialist
 **Romptech Scientific Supplies Company Limited**  
