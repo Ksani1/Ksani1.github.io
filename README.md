@@ -9,7 +9,7 @@
 <div style="display: flex; align-items: center; padding: 20px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <img src="Photo.png" alt="Khalil Muhammad" width="150" style="border-radius: 50%; border: 3px solid #0d7377; margin-right: 20px;">
     <div>
-    Welcome to my portfolio! I am a Master’s student in Computer Science at the Illinois Institute of Technology, specializing in data science, machine learning, and business strategy. My work focuses on extracting valuable insights from complex datasets and applying these findings to drive business innovation and growth
+    Welcome to my portfolio! I am a Master’s student in Computer Science at the Illinois Institute of Technology, specializing in data science, machine learning, and business strategy. My work focuses on extracting valuable insights from complex datasets and applying these findings to drive business innovation and growth.
   </div>
 </div>
 
