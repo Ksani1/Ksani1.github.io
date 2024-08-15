@@ -17,7 +17,7 @@
 
 ## 🌟 Professional Summary
 
-Driven Computer Science student specializing in Database Systems at Illinois Institute of Technology with a passion for data analytics and software development. I thrive on transforming complex data into actionable insights and am committed to using technology to solve real-world problems and create impactful solutions.
+Driven Computer Science student specializing in Database Systems at Illinois Institute of Technology with a passion for data analytics and software development. I thrive on transforming complex data into actionable insights and I'm committed to using technology to solve real-world problems and create impactful solutions.
 
 ---
 
