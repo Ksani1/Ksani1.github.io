@@ -79,7 +79,7 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 
 ## 💼 Work Experience
 
-### Data Analytics Intern
+### Operations Specialist
 **Zenblen**  
 *Chicago, Illinois, United States · On-site*  
 *May 2024 - Present*
@@ -127,7 +127,12 @@ uninterrupted service.
 
 - **[Enhancing City Mobility with Cab Data Analytics](https://github.com/Ksani1/Enhancing-City-Mobility-with-Cab-Data-Analytics)**: Analyzed cab data to compare pricing models and predictive techniques of two companies, leveraging advanced analytics to improve urban mobility solutions.
   - **Technologies Used**: Python, R, Pandas, SQL
-  - **Impact**: Enhanced city mobility insights and strategic planning.
+  - **Impact**: Enhanced city mobility insights and strategic planning by identifying optimal pricing strategies and efficient routing mechanisms for urban transportation systems. Proposed data-driven solutions that could reduce waiting times and operational costs.
+
+- **[C&M Mining Machines Reservation System](https://github.com/Ksani1/C-M-Mining-Machines-Reservation-System)**: Developed a Java-based console application to manage customer records for a mining machine reservation service. The system supports CRUD operations, user authentication, file-based data storage, and automated cost calculation.
+  - **Technologies Used**: Java, File I/O, Data Validation
+  - **Impact**: Streamlined the management of customer records and inventory for mining machines, providing a reliable and efficient solution for tracking reservations and improving operational processes.
+
     
 ---
 
