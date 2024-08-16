@@ -10,7 +10,7 @@
     <img src="Photo.png" alt="Khalil Muhammad" width="150" style="border-radius: 50%; border: 3px solid #0d7377; margin-right: 20px;">
     <div>
 Welcome to My Portfolio
-Hello, and welcome to my professional portfolio! My name is **Muhammad Khalil**, and I am currently pursuing a Master of Science in Computer Science at Illinois Tech, focusing on full-stack development, data analysis, and cutting-edge technologies. I have hands-on experience in both front-end and back-end development, from JavaScript and Python to Flutter and Figma for UI/UX design.
+Hello, and welcome to my professional portfolio! My name is Muhammad Khalil, and I am currently pursuing a Master of Science in Computer Science at Illinois Tech, focusing on full-stack development, data analysis, and cutting-edge technologies. I have hands-on experience in both front-end and back-end development, from JavaScript and Python to Flutter and Figma for UI/UX design.
 
 This portfolio showcases my journey, projects, and expertise across various domains, including cloud computing, big data technologies, and machine learning. I’m passionate about transforming complex problems into user-friendly solutions, all while driving innovation and business growth.
 
