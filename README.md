@@ -9,7 +9,13 @@
 <div style="display: flex; align-items: center; padding: 20px; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <img src="Photo.png" alt="Khalil Muhammad" width="150" style="border-radius: 50%; border: 3px solid #0d7377; margin-right: 20px;">
     <div>
-    Welcome to my portfolio! I am a Master’s student in Computer Science at the Illinois Institute of Technology, specializing in data science, machine learning, and business strategy. My work focuses on extracting valuable insights from complex datasets and applying these findings to drive business innovation and growth.
+Welcome to My Portfolio
+Hello, and welcome to my professional portfolio! My name is **Muhammad Khalil**, and I am currently pursuing a Master of Science in Computer Science at Illinois Tech, focusing on full-stack development, data analysis, and cutting-edge technologies. I have hands-on experience in both front-end and back-end development, from JavaScript and Python to Flutter and Figma for UI/UX design.
+
+This portfolio showcases my journey, projects, and expertise across various domains, including cloud computing, big data technologies, and machine learning. I’m passionate about transforming complex problems into user-friendly solutions, all while driving innovation and business growth.
+
+Feel free to explore my work, projects, and experiences. Thank you for visiting, and I look forward to connecting!
+
   </div>
 </div>
 
