@@ -85,27 +85,16 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 
 ## 💼 Work Experience
 
-### Operations Specialist
-**Zenblen**  
-*Chicago, Illinois, United States · On-site*  
-*May 2024 - Present*
-
-- In charge of daily Smoothie restocking for V5 and V4 robotic kiosks.
-- Assisted in designing the Tropical smoothie display on the robotic kiosk.
-- Managed customer experience in the field to ensure satisfaction and quality service.
-- In charge of on-site (Level-1) support to fix the robotic kiosk when it failed, ensuring minimal downtime and
-uninterrupted service.
-- In-depth training with the lead mechanical engineer on the operation of the Smoothie robotic system.
-
 ### Software Engineering Intern
 **Open Learning Exchange**  
 *Cambridge, MA, Nigeria · (remote)*  
 *SEPT 2020 – DEC 2022*
 
-- Improved the stability, performance, and user experience of the MyPlanet Android application, reducing app crashes by 25%
-- Spearheaded new features for the MyPlanet app, increasing user retention by 20%
-- Achieved key milestones such as reducing app crashes by 25% and improving app load times by 15%
-
+- Built responsive front-end interfaces using Angular.js, HTML5, CSS3, JavaScript, jQuery, and Bootstrap.
+- Developed a comprehensive management system in Python, reducing system errors by 70%.
+- Improved software performance by 15% through code optimization and bottleneck resolution.
+- Deployed and managed Docker containers using Kubernetes, enabling scalable, load-balanced, and multi-version deployments.
+  
 ### IT Support Specialist
 **Romptech Scientific Supplies Company Limited**  
 *Zaria, Kaduna State, Nigeria · On-site*  
