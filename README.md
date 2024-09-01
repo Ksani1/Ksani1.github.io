@@ -10,10 +10,7 @@
     <img src="Photo.png" alt="Khalil Muhammad" width="150" style="border-radius: 50%; border: 3px solid #0d7377; margin-right: 20px;">
     <div>
         
-## Welcome to My Portfolio
-
-        
-Hello, and welcome to my professional portfolio! My name is Khalil Muhammad, a Data Science professional with a Master of Science in Computer Science from Illinois Institute of Technology. I specialize in data analysis, predictive modeling, and software optimization, with a strong foundation in Python, SQL, R, and AWS services.
+welcome to my professional portfolio! My name is Khalil Muhammad, a Data Science professional with a Master of Science in Computer Science from Illinois Institute of Technology. I specialize in data analysis, predictive modeling, and software optimization, with a strong foundation in Python, SQL, R, and AWS services.
 
 Throughout my career, I have been driven by a passion for uncovering insights from complex datasets and transforming them into actionable strategies that drive business growth. My experience includes developing machine learning models for predictive analytics, building dynamic dashboards using Power BI and Tableau, and creating end-to-end data solutions that optimize performance and enhance decision-making. I have successfully delivered 10+ data-driven projects, utilizing techniques such as linear regression, decision trees, and random forests to solve real-world problems.
 
