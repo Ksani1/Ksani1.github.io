@@ -10,9 +10,11 @@
     <img src="Photo.png" alt="Khalil Muhammad" width="150" style="border-radius: 50%; border: 3px solid #0d7377; margin-right: 20px;">
     <div>
 Welcome to My Portfolio
-Hello, and welcome to my professional portfolio! My name is Muhammad Khalil, and I am currently pursuing a Master of Science in Computer Science at Illinois Tech, focusing on full-stack development, data analysis, and cutting-edge technologies. I have hands-on experience in both front-end and back-end development, from JavaScript and Python to Flutter and Figma for UI/UX design.
+Hello, and welcome to my professional portfolio! My name is Khalil Muhammad, a Data Science professional with a Master of Science in Computer Science from Illinois Institute of Technology. I specialize in data analysis, predictive modeling, and software optimization, with a strong foundation in Python, SQL, R, and AWS services.
 
-This portfolio showcases my journey, projects, and expertise across various domains, including cloud computing, big data technologies, and machine learning. I’m passionate about transforming complex problems into user-friendly solutions, all while driving innovation and business growth.
+Throughout my career, I have been driven by a passion for uncovering insights from complex datasets and transforming them into actionable strategies that drive business growth. My experience includes developing machine learning models for predictive analytics, building dynamic dashboards using Power BI and Tableau, and creating end-to-end data solutions that optimize performance and enhance decision-making. I have successfully delivered 10+ data-driven projects, utilizing techniques such as linear regression, decision trees, and random forests to solve real-world problems.
+
+This portfolio showcases my journey, projects, and expertise in data science and analytics, from optimizing supply chain management to enhancing customer engagement through AI-driven solutions. I am dedicated to continuous learning and innovation, always eager to tackle new challenges and leverage data to make a meaningful impact.
 
 Feel free to explore my work, projects, and experiences. Thank you for visiting, and I look forward to connecting!
 
