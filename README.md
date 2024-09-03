@@ -148,7 +148,7 @@ I excel in transforming data into visually compelling and actionable insights. W
 
 <p>
   You can download my updated resume here: 
-  <a href="https://docs.google.com/document/d/18CbaMu0KuZl3Q9utnnyu7yNuAilqwxwYBcbE30-qoZc/edit?usp=sharing" target="_blank" style="color: #0d7377;">Download Resume</a>.
+  <a href="https://drive.google.com/file/d/1Bh6xJc5OJRv5vSPB2fSbHgLLptHQNtdC/view?usp=sharing" target="_blank" style="color: #0d7377;">Download Resume</a>.
 </p>
 
 
