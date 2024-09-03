@@ -1,6 +1,5 @@
 
 ---
-<h1 style="font-size: 3em; color: #0d7377; text-align: center; margin-top: 20px;">Khalil Muhammad</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ksani) 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:ksani1@hawk.iit.edu) 
