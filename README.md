@@ -32,16 +32,6 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 
 ### 🛠️ Skills and Expertise
 
-## Graphic Design Skills
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40px" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40px" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" alt="Adobe After Effects" width="40px" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40px" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="Sketch" width="40px" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="40px" style="padding-right:10px;"/>
-</p>
 
 ## Cloud Platforms and Tools
 
@@ -88,16 +78,15 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 
 ## 💼 Work Experience
 
-### Software Engineering Intern
+### Software Engineering Internship
 **Open Learning Exchange**  
 *Cambridge, MA, Nigeria · (remote)*  
 *SEPT 2020 – DEC 2022*
 
-- Built responsive front-end interfaces using Angular.js, HTML5, CSS3, JavaScript, jQuery, and Bootstrap.
-- Developed a comprehensive management system in Python, reducing system errors by 70%.
-- Improved software performance by 15% through code optimization and bottleneck resolution.
-- Deployed and managed Docker containers using Kubernetes, enabling scalable, load-balanced, and multi-version deployments.
-  
+- Engineered responsive front-end interfaces with Angular.js, HTML5, and JavaScript, optimizing performance with Angular 6 components for future-proof framework transitions. 
+- Developed a Python-based management system that reduces system errors by 70% and boosts performance by 15% through Docker deployment and Kubernetes-driven scalability.
+- Streamlined development using GIT and NPM scripts in a Node.js environment, while leveraging Tableau and Power BI to deliver data-driven insights and continuous performance improvements.
+
 ### IT Support Specialist
 **Romptech Scientific Supplies Company Limited**  
 *Zaria, Kaduna State, Nigeria · On-site*  
@@ -108,16 +97,6 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 - Managed cloud-based services on AWS and GCP, optimizing data storage.
 - Developed and maintained databases using SQL and created reports using Microsoft Power BI and Tableau to support business operations.
 - Utilized Microsoft Excel to develop dashboards and reports for business performance monitoring, achieving a 10% increase in operational efficiency.
-
-### Founder
-**Ibk Graphics**  
-*Abuja, Nigeria · Self-Employed*  
-*September 2019 - October 2021*
-
-- Founded and led a successful graphic design company, driving the company’s vision and mission.
-- Provided creative direction for all design projects, ensuring high-quality deliverables aligned with client objectives.
-- Cultivated strong client relationships, resulting in a high level of satisfaction and repeat business.
-- Built and led a cohesive team of designers, fostering a collaborative and innovative work environment.
 
 ---
 
@@ -160,11 +139,18 @@ I excel in transforming data into visually compelling and actionable insights. W
   
 ---
 
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ksani) 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:ksani1@hawk.iit.edu) 
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/Ksani1)
+
+<p>
+  You can download my updated resume here: 
+  <a href="https://docs.google.com/document/d/18CbaMu0KuZl3Q9utnnyu7yNuAilqwxwYBcbE30-qoZc/edit?usp=sharing" target="_blank" style="color: #0d7377;">Download Resume</a>.
+</p>
+
 
 ---
 
