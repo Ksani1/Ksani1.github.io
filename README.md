@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ksani) 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:ksani1@hawk.iit.edu) 
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)]([https://github.com/Ksani1](https://github.com/ksani1?tab=repositories))
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)]([https://github.com/ksani1?tab=repositories])
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-blue?style=flat&logo=behance)](https://www.behance.net/khalilmuhammad1)
 
 
