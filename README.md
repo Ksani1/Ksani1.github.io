@@ -152,7 +152,6 @@ Led innovative IT solutions and machine learning projects, significantly improvi
 3. **Customer-Service-Chatbot**
    - Technologies: JavaScript, NLP, Custom APIs
    - Impact: Reduced human intervention by 40%, improved customer satisfaction
-
 ---
 
 ## 🚀 Featured Projects
