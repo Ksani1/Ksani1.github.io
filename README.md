@@ -125,7 +125,7 @@ Led innovative IT solutions and machine learning projects, significantly improvi
 - **ML & Data:** ETL, Predictive Modeling, Data Pipelines, Data Governance
 - **Networking:** Hardware/Software Troubleshooting, System Administration
 
-### Notable Projects:
+### Data Science Projects:
 1. **Enhancing City Mobility with Cab Data Analytics**
    - Technologies: Python, R, Pandas, SQL
    - Impact: Optimized urban transportation through data-driven insights
