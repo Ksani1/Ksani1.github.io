@@ -33,52 +33,42 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40px" style="padding-right:10px;"/>
   <span>Python</span>
 </p>
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40px" style="padding-right:10px;"/>
   <span>R</span>
 </p>
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40px" style="padding-right:10px;"/>
   <span>Pandas</span>
 </p>
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40px" style="padding-right:10px;"/>
   <span>NumPy</span>
 </p>
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40px" style="padding-right:10px;"/>
   <span>TensorFlow</span>
 </p>
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40px" style="padding-right:10px;"/>
   <span>PyTorch</span>
 </p>
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40px" style="padding-right:10px;"/>
   <span>Jupyter</span>
 </p>
-
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40px" style="padding-right:10px;"/>
   <span>Scikit-learn</span>
 </p>
-
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40px" style="padding-right:10px;"/>
   <span>Apache Spark</span>
 </p>
-
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40px" style="padding-right:10px;"/>
   <span>Power BI</span>
 </p>
-
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40px" style="padding-right:10px;"/>
   <span>Tableau</span>
