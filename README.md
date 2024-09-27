@@ -41,18 +41,13 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40px" style="padding-right:10px;"/>
-  <span>Pandas</span>
-</p>
-
+  <span>Pandas</span></p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40px" style="padding-right:10px;"/>
-  <span>NumPy</span>
-</p>
-
+  <span>NumPy</span> </p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40px" style="padding-right:10px;"/>
-  <span>TensorFlow</span>
-</p>
+  <span>TensorFlow</span></p>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40px" style="padding-right:10px;"/>
