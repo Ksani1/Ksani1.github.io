@@ -79,7 +79,6 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
     </td>
   </tr>
 </table>
----
 
 # 💼 Work Experience
 
