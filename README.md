@@ -89,7 +89,16 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 *Zaria, Kaduna State, Nigeria · On-site*  
 *March 2021 - April 2023*
 
-- Led staff training on Excel, SQL, and Tableau, enhancing team capability in data-driven decision-making.
+- Administered and Supported Computer Networks: Managed computer networks and related computing environments, including hardware, software, and configurations, significantly improving system reliability by 70% through innovative security measures and effective troubleshooting.
+- Diagnosed and Resolved IT Issues: Diagnosed, troubleshot, and resolved hardware, software, and network problems, reducing downtime and maximizing bandwidth utilization through proactive system monitoring and maintenance.
+- Developed an end-to-end Machine Learning pipeline for Ecobank, enabling improved cash flow forecasting and reducing forecasting errors by 25% through predictive modeling based on demographics and health risk metrics.
+- Created a sales predictive model for Shoprite Mart, increasing sales forecasting accuracy by 20%, which enhanced inventory management and strategic planning.
+- Led the implementation of ML infrastructure on Amazon SageMaker, achieving a 30% improvement in model deployment efficiency, and conducted a randomized controlled trial of ML models for fraud detection, improving accuracy by 15%.
+- Trained staff in data visualization tools like Power BI, SQL, and Tableau, resulting in a 50% increase in operational efficiency, while also developing ETL pipelines that contributed to a 10% revenue growth.
+- Built and optimized data pipelines using Python, SQL, and Java, enabling efficient data extraction, transformation, and loading (ETL) processes.
+- Deployed and managed data storage solutions on AWS and GCP, improving data retrieval and storage efficiency by leveraging S3, EC2, and Lambda services.
+- Designed and implemented data-driven dashboards using Power BI and Tableau, providing real-time insights and supporting data-driven decision-making.
+- Conducted data integrity checks and implemented data governance best practices to ensure data accuracy, security, and compliance within a regulated environment.
 - Provided technical support and troubleshooting for software and hardware issues using C++, Python, and Java, ensuring minimal downtime.
 - Managed cloud-based services on AWS and GCP, optimizing data storage.
 - Developed and maintained databases using SQL and created reports using Microsoft Power BI and Tableau to support business operations.
@@ -107,6 +116,9 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
   - **Technologies Used**: Java, File I/O, Data Validation
   - **Impact**: Streamlined the management of customer records and inventory for mining machines, providing a reliable and efficient solution for tracking reservations and improving operational processes.
 
+- **[Customer-Service-Chatbot](https://github.com/ksani1/Customer-Service-Chatbot)**: AI-powered chatbot for robotic kiosk interactions.
+- **Technologies**: JavaScript, NLP, Custom APIs
+- **Impact**: Reduced human intervention by 40% and significantly improved customer satisfaction.
     
 ---
 
