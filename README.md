@@ -75,7 +75,7 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 
 # 💼 Work Experience
 
-## 📊 Data Operations Intern | Zenblen (May 2024 - Present)
+### 📊 Data Operations Intern | Zenblen (May 2024 - Present)
 
 - 📈 Boosted client retention by 30% using Python, Pandas, and NumPy for advanced analytics, driving $1.2M ARR growth
 - 📊 Developed 50+ dynamic dashboards with Excel, Power BI, and Tableau for real-time KPI monitoring
@@ -83,10 +83,7 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 - 💹 Achieved 25% portfolio value growth via SQL analysis and RFM modeling for cross-sell/upsell
 - 🏭 Cut operational costs by 20% using XGBoost and ARIMA for predictive inventory management
 
-## 🛠 Technologies Used:
-Python, Pandas, NumPy, SQL, Excel, Power BI, Tableau, XGBoost, ARIMA, Grafana
-
-## 💻 Software Engineering Intern | Open Learning Exchange (Sept 2020 - Dec 2022)
+### 💻 Software Engineering Intern | Open Learning Exchange (Sept 2020 - Dec 2022)
 - 🖥️ Engineered responsive front-end interfaces with Angular.js, HTML5, and JavaScript
 - 🚀 Optimized performance with Angular 6 components for future-proof framework transitions
 - 🐍 Developed a Python-based management system, reducing system errors by 70% and boosting performance by 15%
@@ -94,7 +91,7 @@ Python, Pandas, NumPy, SQL, Excel, Power BI, Tableau, XGBoost, ARIMA, Grafana
 - 🔧 Streamlined development using GIT and NPM scripts in a Node.js environment
 - 📊 Leveraged Tableau and Power BI to deliver data-driven insights and continuous performance improvements
 
-## 🎓 Career Break | Illinois Institute of Technology (Aug 2023 - May 2024)
+### 🎓 Career Break | Illinois Institute of Technology (Aug 2023 - May 2024)
 - 🛠️ Managed software projects using MS Project
 - 🤖 Developed AI agent for project management using deep learning and GPT-4 mini
 - ☁️ Led parallel computing tasks with AWS EC2, S3, and Hadoop
@@ -102,7 +99,7 @@ Python, Pandas, NumPy, SQL, Excel, Power BI, Tableau, XGBoost, ARIMA, Grafana
 - 📱 Designed mobile applications with Flutter and Dart
 
 
-## 🖥️ IT Support Specialist & ML Engineer | Romptech Scientific Supplies Company Limited (Mar 2021 - Apr 2023)
+### 🖥️ IT Support Specialist & ML Engineer | Romptech Scientific Supplies Company Limited (Mar 2021 - Apr 2023)
 
 Led innovative IT solutions and machine learning projects, significantly improving system reliability and operational efficiency.
 - 🔧 Improved system reliability by 70% through innovative security measures and effective troubleshooting
