@@ -151,7 +151,6 @@ Led innovative IT solutions and machine learning projects, significantly improvi
    - Technologies: JavaScript, NLP, Custom APIs
    - Impact: Reduced human intervention by 40%, improved customer satisfaction
 
-This role showcased my versatility in IT support, machine learning, and data engineering, driving significant improvements in system reliability, operational efficiency, and data-driven decision-making.
 ---
 
 ## 🚀 Featured Projects
