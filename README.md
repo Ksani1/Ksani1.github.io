@@ -73,7 +73,7 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 
 ---
 
-## 💼 Work Experience
+# 💼 Work Experience
 
 ## 📊 Data Operations Intern | Zenblen (May 2024 - Present)
 
@@ -83,23 +83,28 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 - 💹 Achieved 25% portfolio value growth via SQL analysis and RFM modeling for cross-sell/upsell
 - 🏭 Cut operational costs by 20% using XGBoost and ARIMA for predictive inventory management
 
-### 🛠 Technologies Used:
+## 🛠 Technologies Used:
 Python, Pandas, NumPy, SQL, Excel, Power BI, Tableau, XGBoost, ARIMA, Grafana
 
-### Software Engineering Internship
-**Open Learning Exchange**  
-*Cambridge, MA, Nigeria · (remote)*  
-*SEPT 2020 – DEC 2022*
+## 💻 Software Engineering Intern | Open Learning Exchange (Sept 2020 - Dec 2022)
+- 🖥️ Engineered responsive front-end interfaces with Angular.js, HTML5, and JavaScript
+- 🚀 Optimized performance with Angular 6 components for future-proof framework transitions
+- 🐍 Developed a Python-based management system, reducing system errors by 70% and boosting performance by 15%
+- 🐳 Implemented Docker deployment and Kubernetes-driven scalability
+- 🔧 Streamlined development using GIT and NPM scripts in a Node.js environment
+- 📊 Leveraged Tableau and Power BI to deliver data-driven insights and continuous performance improvements
 
-- Engineered responsive front-end interfaces with Angular.js, HTML5, and JavaScript, optimizing performance with Angular 6 components for future-proof framework transitions. 
-- Developed a Python-based management system that reduces system errors by 70% and boosts performance by 15% through Docker deployment and Kubernetes-driven scalability.
-- Streamlined development using GIT and NPM scripts in a Node.js environment, while leveraging Tableau and Power BI to deliver data-driven insights and continuous performance improvements.
+## 🎓 Career Break | Illinois Institute of Technology (Aug 2023 - May 2024)
+- 🛠️ Managed software projects using MS Project
+- 🤖 Developed AI agent for project management using deep learning and GPT-4 mini
+- ☁️ Led parallel computing tasks with AWS EC2, S3, and Hadoop
+- 🚀 Spearheaded cloud computing initiative using Chameleon Cloud
+- 📱 Designed mobile applications with Flutter and Dart
+
 
 ## 🖥️ IT Support Specialist & ML Engineer | Romptech Scientific Supplies Company Limited (Mar 2021 - Apr 2023)
 
 Led innovative IT solutions and machine learning projects, significantly improving system reliability and operational efficiency.
-
-### Key Achievements:
 - 🔧 Improved system reliability by 70% through innovative security measures and effective troubleshooting
 - 🤖 Developed ML pipeline for Ecobank, reducing cash flow forecasting errors by 25%
 - 📈 Created sales predictive model for Shoprite Mart, increasing accuracy by 20%
@@ -107,6 +112,15 @@ Led innovative IT solutions and machine learning projects, significantly improvi
 - 🕵️ Conducted ML model trials for fraud detection, improving accuracy by 15%
 - 📊 Trained staff in data visualization tools, boosting operational efficiency by 50%
 - 🚀 Developed ETL pipelines contributing to 10% revenue growth
+
+### 🌐 Project Management Intern | GlobalShala (Mar 2021 - Apr 2023)
+- 👥 Led cross-functional remote teams, delivering projects on time and within scope
+- 📊 Analyzed complex data sets, generating actionable insights for strategic decision-making
+- 🛡️ Identified and mitigated risks in large datasets, implementing preventative measures
+- 📈 Created data visualizations for market price reviews, enhancing competitive landscape understanding
+- 🚀 Spearheaded the GlobalShala initiative, integrating educational programs with technological advancements
+- ⚡ Improved team productivity by 25% through implementation of agile project management methodologies
+- 🌟 Introduced the GlobalShala initiative, combining education and technological progress
 
 ### Technical Skills:
 - **Languages & Tools:** Python, SQL, Java, C++, Power BI, Tableau, Excel
