@@ -34,7 +34,6 @@ I am dedicated to continuous learning and innovation, always eager to tackle new
 Feel free to explore my work, projects, and experiences. Thank you for visiting, and I look forward to connecting!
 
 </div>
----
 
 ## 🛠️ Data Science Tools & Technologies
 
