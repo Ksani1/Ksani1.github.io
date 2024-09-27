@@ -114,7 +114,7 @@ Feel free to explore my work, projects, and experiences. Thank you for visiting,
 - 📱 Designed mobile applications with Flutter and Dart
 
 
-### 🖥️ IT Support Specialist | Romptech Scientific Supplies Co. Ltd (MAR 2021 - APR 2023)
+### 🖥️ IT Specialist | Romptech Scientific Supplies Co. Ltd (MAR 2021 - APR 2023)
 
 Led innovative IT solutions and machine learning projects, significantly improving system reliability and operational efficiency.
 - 🔧 Improved system reliability by 70% through innovative security measures and effective troubleshooting
