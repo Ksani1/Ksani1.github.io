@@ -90,7 +90,7 @@ Feel free to explore my work, projects, and experiences. Thank you for visiting,
 
 # 💼 Work Experience
 
-### 📊 Data Operations Intern | Zenblen (May 2024 - Present)
+### 📊 Data Operations Intern | Zenblen (MAY 2024 - Present)
 
 - 📈 Boosted client retention by 30% using Python, Pandas, and NumPy for advanced analytics, driving $1.2M ARR growth
 - 📊 Developed 50+ dynamic dashboards with Excel, Power BI, and Tableau for real-time KPI monitoring
@@ -98,7 +98,7 @@ Feel free to explore my work, projects, and experiences. Thank you for visiting,
 - 💹 Achieved 25% portfolio value growth via SQL analysis and RFM modeling for cross-sell/upsell
 - 🏭 Cut operational costs by 20% using XGBoost and ARIMA for predictive inventory management
 
-### 💻 Software Engineering Intern | Open Learning Exchange (Sept 2020 - Dec 2022)
+### 💻 Software Engineering Intern | Open Learning Exchange (SEP 2020 - DEC 2022)
 - 🖥️ Engineered responsive front-end interfaces with Angular.js, HTML5, and JavaScript
 - 🚀 Optimized performance with Angular 6 components for future-proof framework transitions
 - 🐍 Developed a Python-based management system, reducing system errors by 70% and boosting performance by 15%
@@ -106,7 +106,7 @@ Feel free to explore my work, projects, and experiences. Thank you for visiting,
 - 🔧 Streamlined development using GIT and NPM scripts in a Node.js environment
 - 📊 Leveraged Tableau and Power BI to deliver data-driven insights and continuous performance improvements
 
-### 🎓 Career Break | Illinois Institute of Technology (Aug 2023 - May 2024)
+### 🎓 Career Break | Illinois Institute of Technology (AUG 2023 - MAY 2024)
 - 🛠️ Managed software projects using MS Project
 - 🤖 Developed AI agent for project management using deep learning and GPT-4 mini
 - ☁️ Led parallel computing tasks with AWS EC2, S3, and Hadoop
@@ -114,7 +114,7 @@ Feel free to explore my work, projects, and experiences. Thank you for visiting,
 - 📱 Designed mobile applications with Flutter and Dart
 
 
-### 🖥️ IT Support Specialist | Romptech Scientific Supplies Co. Ltd (Mar 2021 - Apr 2023)
+### 🖥️ IT Support Specialist | Romptech Scientific Supplies Co. Ltd (MAR 2021 - APR 2023)
 
 Led innovative IT solutions and machine learning projects, significantly improving system reliability and operational efficiency.
 - 🔧 Improved system reliability by 70% through innovative security measures and effective troubleshooting
@@ -125,7 +125,7 @@ Led innovative IT solutions and machine learning projects, significantly improvi
 - 📊 Trained staff in data visualization tools, boosting operational efficiency by 50%
 - 🚀 Developed ETL pipelines contributing to 10% revenue growth
 
-### 🌐 Project Management Intern | GlobalShala (Mar 2021 - Apr 2023)
+### 🌐 Project Management Intern | GlobalShala (SEP 2022 - DEC 2022)
 - 👥 Led cross-functional remote teams, delivering projects on time and within scope
 - 📊 Analyzed complex data sets, generating actionable insights for strategic decision-making
 - 🛡️ Identified and mitigated risks in large datasets, implementing preventative measures
