@@ -30,7 +30,7 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 ## 🛠️ Data Science Tools & Technologies
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40px" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40px" style="padding-right:10px;">
   <span>Python</span>
 </p>
 
