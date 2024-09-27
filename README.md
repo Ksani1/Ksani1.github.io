@@ -75,6 +75,17 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 
 ## 💼 Work Experience
 
+## 📊 Data Operations Intern | Zenblen (May 2024 - Present)
+
+- 📈 Boosted client retention by 30% using Python, Pandas, and NumPy for advanced analytics, driving $1.2M ARR growth
+- 📊 Developed 50+ dynamic dashboards with Excel, Power BI, and Tableau for real-time KPI monitoring
+- 🤝 Collaborated cross-functionally to increase customer satisfaction by 35% through data-driven insights
+- 💹 Achieved 25% portfolio value growth via SQL analysis and RFM modeling for cross-sell/upsell
+- 🏭 Cut operational costs by 20% using XGBoost and ARIMA for predictive inventory management
+
+### 🛠 Technologies Used:
+Python, Pandas, NumPy, SQL, Excel, Power BI, Tableau, XGBoost, ARIMA, Grafana
+
 ### Software Engineering Internship
 **Open Learning Exchange**  
 *Cambridge, MA, Nigeria · (remote)*  
@@ -84,26 +95,39 @@ Driven Computer Science student specializing in Database Systems at Illinois Ins
 - Developed a Python-based management system that reduces system errors by 70% and boosts performance by 15% through Docker deployment and Kubernetes-driven scalability.
 - Streamlined development using GIT and NPM scripts in a Node.js environment, while leveraging Tableau and Power BI to deliver data-driven insights and continuous performance improvements.
 
-### IT Support Specialist
-**Romptech Scientific Supplies Company Limited**  
-*Zaria, Kaduna State, Nigeria · On-site*  
-*March 2021 - April 2023*
+## 🖥️ IT Support Specialist & ML Engineer | Romptech Scientific Supplies Company Limited (Mar 2021 - Apr 2023)
 
-- Administered and Supported Computer Networks: Managed computer networks and related computing environments, including hardware, software, and configurations, significantly improving system reliability by 70% through innovative security measures and effective troubleshooting.
-- Diagnosed and Resolved IT Issues: Diagnosed, troubleshot, and resolved hardware, software, and network problems, reducing downtime and maximizing bandwidth utilization through proactive system monitoring and maintenance.
-- Developed an end-to-end Machine Learning pipeline for Ecobank, enabling improved cash flow forecasting and reducing forecasting errors by 25% through predictive modeling based on demographics and health risk metrics.
-- Created a sales predictive model for Shoprite Mart, increasing sales forecasting accuracy by 20%, which enhanced inventory management and strategic planning.
-- Led the implementation of ML infrastructure on Amazon SageMaker, achieving a 30% improvement in model deployment efficiency, and conducted a randomized controlled trial of ML models for fraud detection, improving accuracy by 15%.
-- Trained staff in data visualization tools like Power BI, SQL, and Tableau, resulting in a 50% increase in operational efficiency, while also developing ETL pipelines that contributed to a 10% revenue growth.
-- Built and optimized data pipelines using Python, SQL, and Java, enabling efficient data extraction, transformation, and loading (ETL) processes.
-- Deployed and managed data storage solutions on AWS and GCP, improving data retrieval and storage efficiency by leveraging S3, EC2, and Lambda services.
-- Designed and implemented data-driven dashboards using Power BI and Tableau, providing real-time insights and supporting data-driven decision-making.
-- Conducted data integrity checks and implemented data governance best practices to ensure data accuracy, security, and compliance within a regulated environment.
-- Provided technical support and troubleshooting for software and hardware issues using C++, Python, and Java, ensuring minimal downtime.
-- Managed cloud-based services on AWS and GCP, optimizing data storage.
-- Developed and maintained databases using SQL and created reports using Microsoft Power BI and Tableau to support business operations.
-- Utilized Microsoft Excel to develop dashboards and reports for business performance monitoring, achieving a 10% increase in operational efficiency.
+Led innovative IT solutions and machine learning projects, significantly improving system reliability and operational efficiency.
 
+### Key Achievements:
+- 🔧 Improved system reliability by 70% through innovative security measures and effective troubleshooting
+- 🤖 Developed ML pipeline for Ecobank, reducing cash flow forecasting errors by 25%
+- 📈 Created sales predictive model for Shoprite Mart, increasing accuracy by 20%
+- ☁️ Implemented ML infrastructure on Amazon SageMaker, improving model deployment efficiency by 30%
+- 🕵️ Conducted ML model trials for fraud detection, improving accuracy by 15%
+- 📊 Trained staff in data visualization tools, boosting operational efficiency by 50%
+- 🚀 Developed ETL pipelines contributing to 10% revenue growth
+
+### Technical Skills:
+- **Languages & Tools:** Python, SQL, Java, C++, Power BI, Tableau, Excel
+- **Cloud Platforms:** AWS (S3, EC2, Lambda, SageMaker), GCP
+- **ML & Data:** ETL, Predictive Modeling, Data Pipelines, Data Governance
+- **Networking:** Hardware/Software Troubleshooting, System Administration
+
+### Notable Projects:
+1. **Enhancing City Mobility with Cab Data Analytics**
+   - Technologies: Python, R, Pandas, SQL
+   - Impact: Optimized urban transportation through data-driven insights
+
+2. **C&M Mining Machines Reservation System**
+   - Technologies: Java, File I/O
+   - Impact: Streamlined customer record management and inventory tracking
+
+3. **Customer-Service-Chatbot**
+   - Technologies: JavaScript, NLP, Custom APIs
+   - Impact: Reduced human intervention by 40%, improved customer satisfaction
+
+This role showcased my versatility in IT support, machine learning, and data engineering, driving significant improvements in system reliability, operational efficiency, and data-driven decision-making.
 ---
 
 ## 🚀 Featured Projects
